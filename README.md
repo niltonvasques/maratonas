@@ -8,6 +8,7 @@ maratonas
 - [Topcoder](http://www.topcoder.com/)
 - [Google Code Jam](https://code.google.com/codejam)
 - [URI](https://www.urionlinejudge.com.br/judge/login)
+- -[UVa](http://uva.onlinejudge.org/)
 
 
 GRUPRO

@@ -1,0 +1,14 @@
+state | number | title               |  type
+--------------------------------------------------------
+        10360   ratAttack               DP / Complete Search
+        10341   solveIt                 Mathematics
+solved  11292   dragon of loowater      Greedy 
+        11450   Weeding Shopping        Iterative/Recursive / Complete Search
+solved  10911   Forming Quiz Teams      DP with bitmask 
+        11635   Hotel Booking           Graph ( Mininum Path / Custom Minimum Spanning Tree)
+        11506   Angry Programmer        Graph ( Isolate Components )
+        10243   Fire! Fire! Fire!!!     
+        10717   Mint      
+        11512   GATTACA
+        10065   Useless Tile Packers    
+        
